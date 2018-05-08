@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Cancel' => '',
-    'Confirmation' => '',
+    'Cancel' => 'Atcelt',
+    'Confirmation' => 'Apstiprināt dzēšanu',
     'Information' => '',
-    'Ok' => '',
+    'Ok' => 'Dzēst',
 ];

@@ -18,7 +18,7 @@
  */
 return [
     'Cancel' => 'Отмена',
-    'Confirmation' => 'Подтверждение',
-    'Information' => 'Информация',
-    'Ok' => '',
+    'Confirmation' => 'Подтверждение удаление',
+    'Information' => '',
+    'Ok' => 'Удалить',
 ];
